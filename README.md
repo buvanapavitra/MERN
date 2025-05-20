@@ -3,6 +3,12 @@
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application.
 
 ---
+## 🌐 Live Demo
+
+**Application hosted on Render:**  
+[https://mern-8c7f.onrender.com/](https://mern-8c7f.onrender.com/)
+
+---
 
 ## 📁 Folder Structure
 
