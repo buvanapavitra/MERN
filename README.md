@@ -115,9 +115,8 @@ The backend will serve the frontend build at [http://localhost:5000](http://loca
 
 ![image](https://github.com/user-attachments/assets/ba4ca0ec-b59f-4a3e-9f26-0b701e514835)
 
-**Delete Product:**
 
-<img width="524" alt="image" src="https://github.com/user-attachments/assets/59c831d6-eb08-470f-8f3f-86aa42f9444d" />
+
 
 
 
