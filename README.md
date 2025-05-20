@@ -96,10 +96,17 @@ The backend will serve the frontend build at [http://localhost:5000](http://loca
 
 ## 📄 Screenshot
 
-Create New Product
+**Create New Product:**
+
 ![image](https://github.com/user-attachments/assets/1f869201-13be-4a9c-9e1c-8cea19c37f04)
 
 
-View all Products
+**View all Products:**
+
 ![image](https://github.com/user-attachments/assets/16666cb6-76d3-480c-9393-687691d008ed)
+
+**Update Product:**
+
+![image](https://github.com/user-attachments/assets/ba4ca0ec-b59f-4a3e-9f26-0b701e514835)
+
 
